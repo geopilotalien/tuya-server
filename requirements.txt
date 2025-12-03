@@ -1,2 +1,3 @@
 Flask==3.0.2
-tuya-connector-python==0.1.6
+tuya-connector-python==0.1.2
+
